@@ -1,4 +1,56 @@
 {
-  "photos": [
+  "employees": [
+    {
+      "id": "714c",
+      "name": "Anand",
+      "post": "TCS",
+      "salary": "11212",
+      "address": "nagpur"
+    },
+    {
+      "id": "01af",
+      "name": "Sudhir",
+      "post": "AST",
+      "salary": "10000",
+      "address": "rajkot"
+    },
+    {
+      "id": "74a5",
+      "name": "Test",
+      "post": "AST",
+      "salary": "100000",
+      "address": "bhopal"
+    },
+    {
+      "id": "e00f",
+      "name": "Priya",
+      "post": "HR",
+      "salary": "1000000",
+      "address": "nagpur"
+    },
+    {
+      "id": "0af1",
+      "name": "Suwarna",
+      "post": "Home maker",
+      "salary": "111313",
+      "address": "Pune"
+    }
+  ],
+  "Users": [
+    {
+      "id": "201",
+      "username": "admin1",
+      "password": "admin@1"
+    },
+    {
+      "id": "307",
+      "username": "admin2",
+      "password": "admin@2"
+    },
+    {
+      "id": "403",
+      "username": "admin3",
+      "password": "admin@3"
+    }
   ]
 }
